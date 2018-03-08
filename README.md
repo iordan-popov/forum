@@ -3,7 +3,7 @@ Simple Forum Project build in IntelliJ IDEA
 
 Uses:    
 DAO Design Pattern  
-JSP  
+JSPs  
 Servlets  
 JDBC  
 mySQL  
