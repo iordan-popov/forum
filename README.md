@@ -1,4 +1,4 @@
-# forum
+# Forum
 Simple Forum Project build in IntelliJ IDEA
 
 Uses:    
