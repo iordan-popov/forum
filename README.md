@@ -1,7 +1,7 @@
 # forum
 Simple Forum Project build in IntelliJ IDEA
 
-Uses    
+Uses:    
 DAO Design Pattern  
 JSP  
 Servlets  
