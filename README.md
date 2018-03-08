@@ -1,5 +1,6 @@
-# Forum
-Simple Forum Project build in IntelliJ IDEA
+# Simple Forum Project
+
+Build in IntelliJ IDEA
 
 Uses:    
 DAO Design Pattern  
