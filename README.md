@@ -1,5 +1,5 @@
 # forum
-Simple Forum Project
+Simple Forum Project build in IntelliJ IDEA
 
 Uses:
 JSP 
